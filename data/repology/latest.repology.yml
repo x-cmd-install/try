@@ -1,0 +1,108 @@
+- repo: nix_stable_24_11
+  srcname: try
+  visiblename: try
+  version: 0.2.0
+  origversion: null
+  status: outdated
+  summary: Lets you run a command and inspect its effects before changing your live system
+  maintainers:
+    - p3dimaria@hotmail.it
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: try
+  visiblename: try
+  version: 0.2.0
+  origversion: null
+  status: outdated
+  summary: Lets you run a command and inspect its effects before changing your live system
+  maintainers:
+    - p3dimaria@hotmail.it
+  licenses:
+    - MIT
+- repo: aur
+  srcname: try
+  binname: try
+  visiblename: try
+  version: 0.2.0
+  origversion: 0.2.0-2
+  status: outdated
+  summary: Try lets you run a command and inspect its effects before changing your live system
+  maintainers:
+    - brokenpip3@aur
+    - brokenpip3-bot@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: try-git
+  binname: try-git
+  visiblename: try-git
+  version: r204.b63d1e7
+  origversion: r204.b63d1e7-1
+  status: rolling
+  summary: Run a command and inspect its effects before changing your live system.
+  maintainers:
+    - hv15@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: try
+  visiblename: try
+  version: 1.10.1
+  origversion: null
+  status: newest
+  summary: Quickly manage and navigate project directories for experiments
+- repo: homebrew
+  srcname: try
+  visiblename: try
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Quickly manage and navigate project directories for experiments
+- repo: nix_stable_24_05
+  srcname: try
+  visiblename: try
+  version: 0.2.0
+  origversion: null
+  status: outdated
+  summary: Lets you run a command and inspect its effects before changing your live system
+  maintainers:
+    - p3dimaria@hotmail.it
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: try
+  visiblename: try
+  version: 0.2.0-unstable-2025-02-25
+  origversion: null
+  status: outdated
+  summary: Lets you run a command and inspect its effects before changing your live system
+  maintainers:
+    - p3dimaria@hotmail.it
+    - me@ezrizhu.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: try
+  visiblename: try
+  version: 0.2.0-unstable-2025-02-25
+  origversion: null
+  status: outdated
+  summary: Lets you run a command and inspect its effects before changing your live system
+  maintainers:
+    - p3dimaria@hotmail.it
+    - me@ezrizhu.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: try
+  visiblename: try
+  version: 0.2.0-unstable-2025-02-25
+  origversion: null
+  status: outdated
+  summary: Lets you run a command and inspect its effects before changing your live system
+  maintainers:
+    - p3dimaria@hotmail.it
+    - me@ezrizhu.com
+  licenses:
+    - MIT
