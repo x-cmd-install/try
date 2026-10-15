@@ -30,9 +30,9 @@ x install try
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Code-Review** (1/10) — Found 3/25 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -51,12 +51,12 @@ x install try
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -67,4 +67,4 @@ try 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:54:54Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:47:02Z._
