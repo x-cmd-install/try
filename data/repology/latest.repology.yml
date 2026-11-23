@@ -15,8 +15,8 @@
   srcname: try-git
   binname: try-git
   visiblename: try-git
-  version: r204.b63d1e7
-  origversion: r204.b63d1e7-1
+  version: r258.833624c
+  origversion: r258.833624c-1
   status: rolling
   summary: Run a command and inspect its effects before changing your live system.
   maintainers:
